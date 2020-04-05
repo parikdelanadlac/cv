@@ -15,7 +15,7 @@ h1{
 }
 /* unvisited link */
 a:link {
-  color: red;
+  color: #66BFBF;
 }
 
 /* visited link */
